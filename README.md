@@ -1,5 +1,5 @@
 #Moving the robot through the maze
-Library for reading from the sensors in the issued robot through the MSP430.
+Library for reading from the sensors in the issued robot through the MSP430. The updated library for the robot movement will be included in this repo and the old robot movement library will remain unchanged.
 main.c included
 
 ## General Notes
